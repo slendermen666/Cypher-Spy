@@ -15,3 +15,6 @@ We remind you that this tool allows you to:
 - Acquire the keyboard and cause lag for the victim, affecting typing and crashing apps
 
 IS NOT BACKDOOR
+
+
+![image](https://github.com/user-attachments/assets/3bf641b7-b906-4ec2-9acf-f84571226540)
